@@ -28,9 +28,9 @@ UIViewAnimationCurve animationCurve = curveValue.intValue;
                       delay:0.0
                     options:(animationCurve << 16)
                  animations:^{
-				   // moving the UI components here
-				   <#code#>
-				 }
-				 completion:nil
+                   // moving the UI components here
+                   <#code#>
+                 }
+                 completion:nil
 ];
 
